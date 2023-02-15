@@ -10,3 +10,9 @@ public class Automovil {
 
     }
 }
+
+/*
+Desafio con java consecionaria desde cero con crud con jpa
+min 25.
+problema, error con la igu no inicializa
+ */

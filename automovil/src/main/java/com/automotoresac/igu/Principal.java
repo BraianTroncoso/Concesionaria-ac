@@ -3,7 +3,7 @@ package com.automotoresac.igu;
 import javax.annotation.processing.Generated;
 
 public class Principal extends javax.swing.JFrame{
- 
+
     @SuppressWarnings("Uhchecked")
     Generated Code;
 
