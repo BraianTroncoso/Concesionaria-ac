@@ -68,4 +68,6 @@ public class Automovil {
     public void setModelo(String modelo) {
         this.modelo = modelo;
     }
+
 }
+
